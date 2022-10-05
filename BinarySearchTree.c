@@ -52,7 +52,7 @@ int main()
     insert(root, 70);
     insert(root, 60);
     insert(root, 80);
-    //print tree
+    //print inorder tree traversal
     inorder(root);
   
     return 0;
